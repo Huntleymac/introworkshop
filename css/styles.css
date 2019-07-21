@@ -1,0 +1,29 @@
+h2 {
+  color: green;
+}
+p {
+  color: green;
+}
+h3 {
+  color: brown;
+}
+ol {
+  color: green;
+}h4 {
+  color: tan;
+}
+a {
+  color: gray;
+}
+body {
+  background-color: #25C1F3;
+}
+#thaler {
+  color: purple;
+}
+img {
+  border-style: groove;
+  border-color: brown;
+  float: right;
+  width: 60%;
+}
